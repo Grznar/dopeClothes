@@ -1,0 +1,6 @@
+@dopeClothes.Server_HostAddress = http://localhost:5146
+
+GET {{dopeClothes.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

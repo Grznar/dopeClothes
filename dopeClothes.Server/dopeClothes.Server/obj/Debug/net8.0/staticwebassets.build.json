@@ -1,0 +1,743 @@
+{
+  "Version": 1,
+  "Hash": "xBATq3Xm8oZdvAHndbDZLaEQVSK9hoGBNf1/MGrkEgA=",
+  "Source": "dopeClothes.Server",
+  "BasePath": "_content/dopeClothes.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "dopeClothes.Server\\wwwroot",
+      "Source": "dopeClothes.Server",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\",
+      "BasePath": "_content/dopeClothes.Server",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\images\\536f4f8b-16d1-4aac-a522-8240c66bdb29.jpeg",
+      "SourceId": "dopeClothes.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\",
+      "BasePath": "_content/dopeClothes.Server",
+      "RelativePath": "images/536f4f8b-16d1-4aac-a522-8240c66bdb29#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "opn7dc83la",
+      "Integrity": "NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\536f4f8b-16d1-4aac-a522-8240c66bdb29.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\images\\5d798e14-5a38-43c6-9e83-3000f263dea0.jpeg",
+      "SourceId": "dopeClothes.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\",
+      "BasePath": "_content/dopeClothes.Server",
+      "RelativePath": "images/5d798e14-5a38-43c6-9e83-3000f263dea0#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "opn7dc83la",
+      "Integrity": "NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5d798e14-5a38-43c6-9e83-3000f263dea0.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\images\\613e811b-fbb2-4bde-835b-8ec551bc4efa.jpeg",
+      "SourceId": "dopeClothes.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\",
+      "BasePath": "_content/dopeClothes.Server",
+      "RelativePath": "images/613e811b-fbb2-4bde-835b-8ec551bc4efa#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "opn7dc83la",
+      "Integrity": "NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\613e811b-fbb2-4bde-835b-8ec551bc4efa.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\images\\635b4c75-56ce-43b4-91ad-5fcc2170c764.jpeg",
+      "SourceId": "dopeClothes.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\",
+      "BasePath": "_content/dopeClothes.Server",
+      "RelativePath": "images/635b4c75-56ce-43b4-91ad-5fcc2170c764#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "opn7dc83la",
+      "Integrity": "NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\635b4c75-56ce-43b4-91ad-5fcc2170c764.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\images\\89276e2d-6376-4616-a9c5-127c080395f9.jpeg",
+      "SourceId": "dopeClothes.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\",
+      "BasePath": "_content/dopeClothes.Server",
+      "RelativePath": "images/89276e2d-6376-4616-a9c5-127c080395f9#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "opn7dc83la",
+      "Integrity": "NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\89276e2d-6376-4616-a9c5-127c080395f9.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\images\\9434b305-5a76-4e1f-a298-9adea2640a1e.jpeg",
+      "SourceId": "dopeClothes.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\",
+      "BasePath": "_content/dopeClothes.Server",
+      "RelativePath": "images/9434b305-5a76-4e1f-a298-9adea2640a1e#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "opn7dc83la",
+      "Integrity": "NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\9434b305-5a76-4e1f-a298-9adea2640a1e.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\images\\bba32a19-6322-447e-a958-bad0233cc525.jpeg",
+      "SourceId": "dopeClothes.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\",
+      "BasePath": "_content/dopeClothes.Server",
+      "RelativePath": "images/bba32a19-6322-447e-a958-bad0233cc525#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "opn7dc83la",
+      "Integrity": "NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bba32a19-6322-447e-a958-bad0233cc525.jpeg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/536f4f8b-16d1-4aac-a522-8240c66bdb29.jpeg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\images\\536f4f8b-16d1-4aac-a522-8240c66bdb29.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3759"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:35:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="
+        }
+      ]
+    },
+    {
+      "Route": "images/536f4f8b-16d1-4aac-a522-8240c66bdb29.opn7dc83la.jpeg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\images\\536f4f8b-16d1-4aac-a522-8240c66bdb29.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3759"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:35:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "opn7dc83la"
+        },
+        {
+          "Name": "label",
+          "Value": "images/536f4f8b-16d1-4aac-a522-8240c66bdb29.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="
+        }
+      ]
+    },
+    {
+      "Route": "images/5d798e14-5a38-43c6-9e83-3000f263dea0.jpeg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\images\\5d798e14-5a38-43c6-9e83-3000f263dea0.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3759"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:27:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="
+        }
+      ]
+    },
+    {
+      "Route": "images/5d798e14-5a38-43c6-9e83-3000f263dea0.opn7dc83la.jpeg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\images\\5d798e14-5a38-43c6-9e83-3000f263dea0.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3759"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:27:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "opn7dc83la"
+        },
+        {
+          "Name": "label",
+          "Value": "images/5d798e14-5a38-43c6-9e83-3000f263dea0.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="
+        }
+      ]
+    },
+    {
+      "Route": "images/613e811b-fbb2-4bde-835b-8ec551bc4efa.jpeg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\images\\613e811b-fbb2-4bde-835b-8ec551bc4efa.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3759"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:15:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="
+        }
+      ]
+    },
+    {
+      "Route": "images/613e811b-fbb2-4bde-835b-8ec551bc4efa.opn7dc83la.jpeg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\images\\613e811b-fbb2-4bde-835b-8ec551bc4efa.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3759"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:15:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "opn7dc83la"
+        },
+        {
+          "Name": "label",
+          "Value": "images/613e811b-fbb2-4bde-835b-8ec551bc4efa.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="
+        }
+      ]
+    },
+    {
+      "Route": "images/635b4c75-56ce-43b4-91ad-5fcc2170c764.jpeg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\images\\635b4c75-56ce-43b4-91ad-5fcc2170c764.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3759"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:29:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="
+        }
+      ]
+    },
+    {
+      "Route": "images/635b4c75-56ce-43b4-91ad-5fcc2170c764.opn7dc83la.jpeg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\images\\635b4c75-56ce-43b4-91ad-5fcc2170c764.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3759"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:29:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "opn7dc83la"
+        },
+        {
+          "Name": "label",
+          "Value": "images/635b4c75-56ce-43b4-91ad-5fcc2170c764.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="
+        }
+      ]
+    },
+    {
+      "Route": "images/89276e2d-6376-4616-a9c5-127c080395f9.jpeg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\images\\89276e2d-6376-4616-a9c5-127c080395f9.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3759"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:10:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="
+        }
+      ]
+    },
+    {
+      "Route": "images/89276e2d-6376-4616-a9c5-127c080395f9.opn7dc83la.jpeg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\images\\89276e2d-6376-4616-a9c5-127c080395f9.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3759"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:10:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "opn7dc83la"
+        },
+        {
+          "Name": "label",
+          "Value": "images/89276e2d-6376-4616-a9c5-127c080395f9.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="
+        }
+      ]
+    },
+    {
+      "Route": "images/9434b305-5a76-4e1f-a298-9adea2640a1e.jpeg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\images\\9434b305-5a76-4e1f-a298-9adea2640a1e.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3759"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:31:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="
+        }
+      ]
+    },
+    {
+      "Route": "images/9434b305-5a76-4e1f-a298-9adea2640a1e.opn7dc83la.jpeg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\images\\9434b305-5a76-4e1f-a298-9adea2640a1e.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3759"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:31:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "opn7dc83la"
+        },
+        {
+          "Name": "label",
+          "Value": "images/9434b305-5a76-4e1f-a298-9adea2640a1e.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="
+        }
+      ]
+    },
+    {
+      "Route": "images/bba32a19-6322-447e-a958-bad0233cc525.jpeg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\images\\bba32a19-6322-447e-a958-bad0233cc525.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3759"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:29:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="
+        }
+      ]
+    },
+    {
+      "Route": "images/bba32a19-6322-447e-a958-bad0233cc525.opn7dc83la.jpeg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\wwwroot\\images\\bba32a19-6322-447e-a958-bad0233cc525.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3759"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:29:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "opn7dc83la"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bba32a19-6322-447e-a958-bad0233cc525.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="
+        }
+      ]
+    }
+  ]
+}

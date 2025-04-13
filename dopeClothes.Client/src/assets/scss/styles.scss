@@ -1,0 +1,39 @@
+.scrolled-navbar {
+  background: white;
+  transition: all 1s ease-in-out;
+  box-shadow: 0 1px 2px -2px black;
+}
+.hero {
+  text-align: center;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6)),
+    url("../images/heroBG.png") left center no-repeat;
+  background-size: cover;
+  height: 600px;
+}
+.xl-text {
+  font-size: 50px;
+}
+.btn-hero {
+  transition: all 0.5s all ease-in-out;
+  height: 100px;
+  width: 300px;
+}
+.search-container {
+  position: relative;
+}
+
+.search-input {
+  height: 50px;
+  border-radius: 30px;
+  padding-left: 35px;
+  border: none;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.search-icon {
+  position: absolute;
+  top: 50%;
+  left: 15px;
+  transform: translateY(-50%);
+  color: #888;
+}
