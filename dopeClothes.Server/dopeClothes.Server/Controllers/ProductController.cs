@@ -28,7 +28,7 @@ namespace dopeClothes.Server.Controllers
                     Description = productVM.Description,
                     Price = productVM.Price,
                     SalePrice = productVM.SalePrice,
-
+                    Category = productVM.Category,
                 };
                 if (productVM.Image != null && productVM.Image.Length > 0)
                 {
@@ -86,13 +86,13 @@ namespace dopeClothes.Server.Controllers
                 product.Description = productVm.Description;
                 product.Price = productVm.Price;
                 product.SalePrice = productVm.SalePrice;
+                product.Category = productVm.Category;
 
-           
                 if (productVm.Image != null && productVm.Image.Length > 0)
                 {
                     var wwwRootPath = _webHostEnvironment.WebRootPath;
 
-                 
+
                     if (!string.IsNullOrEmpty(product.ImageUrl))
                     {
                         var oldPath = Path.Combine(wwwRootPath, product.ImageUrl.TrimStart('/'));
@@ -102,7 +102,7 @@ namespace dopeClothes.Server.Controllers
                         }
                     }
 
-                    
+
                     string fileName = Guid.NewGuid().ToString() + Path.GetExtension(productVm.Image.FileName);
                     string path = Path.Combine(wwwRootPath, "images", fileName);
                     using (var fileStream = new FileStream(path, FileMode.Create))
@@ -111,7 +111,7 @@ namespace dopeClothes.Server.Controllers
                     }
                     product.ImageUrl = "/images/" + fileName;
                 }
-                
+
 
                 _unitOfWork.Products.Update(product);
                 _unitOfWork.Save();
@@ -121,6 +121,28 @@ namespace dopeClothes.Server.Controllers
             {
                 return BadRequest(ModelState);
             }
+        }
+        [HttpDelete("Delete/{id:int}")]
+        public IActionResult Delete(int id)
+        {
+            var product = _unitOfWork.Products.Get(u => u.Id == id);
+            if (product == null)
+            {
+                return BadRequest(ModelState);
+            }
+            if (!string.IsNullOrEmpty(product.ImageUrl))
+            {
+                var wwwRootPath = _webHostEnvironment.WebRootPath;
+                var oldPath = Path.Combine(wwwRootPath, product.ImageUrl.TrimStart('/'));
+                if (System.IO.File.Exists(oldPath))
+                {
+                    System.IO.File.Delete(oldPath);
+                }
+            }
+            _unitOfWork.Products.Delete(product);
+            _unitOfWork.Save();
+            return Ok(product);
+
         }
 
     }

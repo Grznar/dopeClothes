@@ -39,6 +39,9 @@
                     "type": "number",
                     "format": "double"
                   },
+                  "Category": {
+                    "type": "string"
+                  },
                   "Image": {
                     "type": "string",
                     "format": "binary"
@@ -62,6 +65,9 @@
                   "style": "form"
                 },
                 "SalePrice": {
+                  "style": "form"
+                },
+                "Category": {
                   "style": "form"
                 },
                 "Image": {
@@ -150,6 +156,9 @@
                     "type": "number",
                     "format": "double"
                   },
+                  "Category": {
+                    "type": "string"
+                  },
                   "Image": {
                     "type": "string",
                     "format": "binary"
@@ -175,6 +184,9 @@
                 "SalePrice": {
                   "style": "form"
                 },
+                "Category": {
+                  "style": "form"
+                },
                 "Image": {
                   "style": "form"
                 },
@@ -185,6 +197,29 @@
             }
           }
         },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Product/Delete/{id}": {
+      "delete": {
+        "tags": [
+          "Product"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
         "responses": {
           "200": {
             "description": "OK"

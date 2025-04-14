@@ -64,6 +64,14 @@
                         Edit
                       </button>
                     </td>
+                    <td>
+                      <button
+                        class="btn btn-danger"
+                        @click="deleteProduct(product.id)"
+                      >
+                        Delete
+                      </button>
+                    </td>
                   </tr>
                 </tbody>
               </table>
@@ -115,12 +123,17 @@ import productService from "@/services/productService.js";
 import { ref, onMounted } from "vue";
 import { useRouter } from "vue-router";
 import { APP_ROUTE_NAMES } from "@/constants/routenames.js";
-
+import { useSwal } from "@/utility/useSwal.js";
 const router = useRouter();
+const swal = useSwal();
 const products = ref([]);
 const errorList = ref([]);
 const allProducts = ref([]);
 onMounted(async () => {
+  await refreshProducts();
+});
+
+async function refreshProducts() {
   try {
     errorList.value = [];
     const response = await productService.getAllProducts();
@@ -129,8 +142,7 @@ onMounted(async () => {
   } catch (error) {
     errorList.value.push(error.message);
   }
-});
-
+}
 function filterProducts(event) {
   const search = event.target.value.toLowerCase();
 
@@ -140,5 +152,20 @@ function filterProducts(event) {
       product.description.toLowerCase().includes(search)
     );
   });
+}
+
+async function deleteProduct(id) {
+  const confirmDelete = await swal.showConfirm(
+    "Are you sure u want to delete this product?"
+  );
+  if (confirmDelete) {
+    try {
+      const response = await productService.deleteProduct(id);
+      refreshProducts();
+      swal.showSuccess("Product deleted successfully!");
+    } catch (error) {
+      errorList.value.push(error.message);
+    }
+  }
 }
 </script>

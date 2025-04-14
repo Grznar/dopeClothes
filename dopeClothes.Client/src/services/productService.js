@@ -51,4 +51,14 @@ export default {
       throw error;
     }
   },
+  async deleteProduct(id) {
+    try {
+      const response = await axios.delete(
+        "https://localhost:7072/Product/Delete/" + id
+      );
+      return response.data;
+    } catch (error) {
+      throw error;
+    }
+  },
 };

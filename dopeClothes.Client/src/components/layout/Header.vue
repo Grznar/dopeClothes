@@ -1,10 +1,12 @@
 <template>
   <!--Navbar-->
-  <nav
-    class="navbar navbar-expand-lg navbar-light sticky-top scrolled-navbar border-bottom"
-  >
+  <nav class="navbar navbar-expand-lg sticky-top">
     <div class="container-fluid">
-      <a href="" class="navbar-brand ms-7">
+      <a
+        href=""
+        class="navbar-brand ms-7"
+        @click="router.push({ name: APP_ROUTE_NAMES.HOME })"
+      >
         <img
           width="50"
           height="50"
@@ -24,9 +26,17 @@
         <!-- Levé menu -->
         <ul class="navbar-nav ms-5">
           <li class="nav-item">
-            <a href="#" class="nav-link">Home</a>
+            <router-link :to="{ name: APP_ROUTE_NAMES.HOME }" class="nav-link"
+              >Home</router-link
+            >
           </li>
-          <li class="nav-item"><a href="#" class="nav-link">Products</a></li>
+          <li class="nav-item">
+            <router-link
+              :to="{ name: APP_ROUTE_NAMES.PRODUCTS_HOME }"
+              class="nav-link"
+              >Products</router-link
+            >
+          </li>
           <li class="nav-item"><a href="#" class="nav-link">Contact</a></li>
         </ul>
 
@@ -39,3 +49,8 @@
     </div>
   </nav>
 </template>
+<script setup>
+import { RouterLink } from "vue-router";
+import { APP_ROUTE_NAMES } from "@/constants/routenames.js";
+import router from "@/router/router";
+</script>

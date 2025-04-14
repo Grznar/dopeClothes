@@ -14,7 +14,7 @@ namespace dopeClothes.Server.Models.VMs
         public double Price { get; set; }
         [Required]
         public double SalePrice { get; set; }
-
+        public string? Category { get; set; }
         public IFormFile? Image { get; set; }
         public string? ImageUrl { get; set; }
     }
