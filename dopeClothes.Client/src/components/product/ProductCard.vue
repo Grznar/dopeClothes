@@ -16,7 +16,10 @@
       <a>
         <div class="mask">
           <div class="d-flex justify-content-start align-items-end h-100">
-            <h5 v-if="product.category" class="text-white m-0 p-2">
+            <h5
+              v-if="product.category && product.category === null"
+              class="text-white m-0 p-2"
+            >
               <span class="badge bg-primary ms-2">{{ product.category }}</span>
             </h5>
           </div>

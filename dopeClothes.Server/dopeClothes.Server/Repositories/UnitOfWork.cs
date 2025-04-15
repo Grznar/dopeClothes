@@ -7,10 +7,12 @@ namespace dopeClothes.Server.Repositories
     {
         public readonly ApplicationDbContext _db;
         public IProductRepository Products { get; private set; }
+        public IUserRepository Users { get; private set; }
         public UnitOfWork(ApplicationDbContext db)
         {
             _db = db;
             Products = new ProductRepository(_db);
+            Users = new UserRepository(_db);
         }
 
 

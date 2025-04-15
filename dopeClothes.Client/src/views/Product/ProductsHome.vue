@@ -115,10 +115,8 @@ onMounted(async () => {
     const response = await productService.getAllProducts();
 
     allProducts.value = response.data || response;
-    console.log("Načtené produkty:", allProducts.value);
   } catch (error) {
     errorList.value = [error.message];
-    console.error("Chyba při načítání produktů:", error);
   }
 });
 

@@ -7,4 +7,6 @@ export const APP_ROUTE_NAMES = Object.freeze({
   PRODUCT_LIST: "product-list",
   DETAILS_PRODUCT: "details-product",
   PRODUCTS_HOME: "products-home",
+  REGISTER: "register",
+  LOGIN: "login",
 });
