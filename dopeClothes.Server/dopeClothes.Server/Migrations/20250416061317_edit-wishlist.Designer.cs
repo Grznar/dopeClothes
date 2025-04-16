@@ -12,8 +12,8 @@ using dopeClothes.Server.Data;
 namespace dopeClothes.Server.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250414071027_addIdentityToDb")]
-    partial class addIdentityToDb
+    [Migration("20250416061317_edit-wishlist")]
+    partial class editwishlist
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -251,9 +251,33 @@ namespace dopeClothes.Server.Migrations
                     b.Property<double>("SalePrice")
                         .HasColumnType("float");
 
+                    b.Property<int?>("WhishListId")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
 
+                    b.HasIndex("WhishListId");
+
                     b.ToTable("Products");
+                });
+
+            modelBuilder.Entity("dopeClothes.Server.Models.WhishList", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("WhishLists");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -305,6 +329,29 @@ namespace dopeClothes.Server.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("dopeClothes.Server.Models.Product", b =>
+                {
+                    b.HasOne("dopeClothes.Server.Models.WhishList", null)
+                        .WithMany("Products")
+                        .HasForeignKey("WhishListId");
+                });
+
+            modelBuilder.Entity("dopeClothes.Server.Models.WhishList", b =>
+                {
+                    b.HasOne("dopeClothes.Server.Models.ApplicationUser", "ApplicationUser")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("ApplicationUser");
+                });
+
+            modelBuilder.Entity("dopeClothes.Server.Models.WhishList", b =>
+                {
+                    b.Navigation("Products");
                 });
 #pragma warning restore 612, 618
         }

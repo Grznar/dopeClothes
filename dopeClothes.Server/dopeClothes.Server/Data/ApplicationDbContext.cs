@@ -12,6 +12,10 @@ namespace dopeClothes.Server.Data
         {
         }
         public virtual DbSet<Product>Products { get; set; }
-        
+        public virtual DbSet<WhishList> WhishLists { get; set; }
+        public virtual DbSet<WishListItem> WishListItems { get; set; }
+        public virtual DbSet<ShoppingCart> ShoppingCarts { get; set; }
+        public virtual DbSet<ShoppingCartItem> ShoppingCartItems { get; set; }
+
     }
 }

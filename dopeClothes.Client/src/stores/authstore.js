@@ -43,5 +43,17 @@ export const useAuthStore = defineStore("auth", {
         throw error;
       }
     },
+    async resetPassword(oldPassword, newPassword, confirmPassword) {
+      try {
+        const response = await authService.resetPassword(
+          oldPassword,
+          newPassword,
+          confirmPassword
+        );
+        return response;
+      } catch (error) {
+        throw error;
+      }
+    },
   },
 });

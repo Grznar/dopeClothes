@@ -42,6 +42,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "dopeClothes.Server.Controllers.AuthController",
+    "Method": "ResetPassword",
+    "RelativePath": "Auth/ResetPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "resetPasswordVM",
+        "Type": "dopeClothes.Server.Models.VMs.ResetPasswordVM",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "dopeClothes.Server.Controllers.ProductController",
     "Method": "Create",
     "RelativePath": "Product/Create",
@@ -181,6 +197,74 @@
         "Name": "ImageUrl",
         "Type": "System.String",
         "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "dopeClothes.Server.Controllers.ShoppingCartController",
+    "Method": "FetchShopCart",
+    "RelativePath": "ShoppingCart/FetchShopCart",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "dopeClothes.Server.Controllers.ShoppingCartController",
+    "Method": "InsertProductToShopCart",
+    "RelativePath": "ShoppingCart/InsertProductToShopCart/{productId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "dopeClothes.Server.Controllers.WishController",
+    "Method": "DeleteFromWishList",
+    "RelativePath": "Wish/DeleteProductFromWishList/{productiD}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productiD",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "dopeClothes.Server.Controllers.WishController",
+    "Method": "GetMyWishList",
+    "RelativePath": "Wish/GetMyWishList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "dopeClothes.Server.Controllers.WishController",
+    "Method": "Create",
+    "RelativePath": "Wish/InsertProduct/{productId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

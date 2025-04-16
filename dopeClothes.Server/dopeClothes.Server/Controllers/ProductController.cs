@@ -1,10 +1,12 @@
 ﻿using dopeClothes.Server.IRepositories;
 using dopeClothes.Server.Models;
 using dopeClothes.Server.Models.VMs;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace dopeClothes.Server.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("[controller]")]
     public class ProductController : Controller

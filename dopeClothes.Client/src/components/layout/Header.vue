@@ -44,7 +44,12 @@
             </RouterLink>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Contact</a>
+            <RouterLink
+              class="nav-link"
+              :to="{ name: APP_ROUTE_NAMES.CONTACT }"
+            >
+              Contact
+            </RouterLink>
           </li>
 
           <li class="nav-item" v-if="!auth.isLoggedIn">
@@ -60,9 +65,27 @@
               Register
             </RouterLink>
           </li>
+          <li
+            class="nav-item"
+            v-if="cart.totalItemCount > 0 && auth.isLoggedIn"
+          >
+            <RouterLink
+              class="nav-link"
+              :to="{ name: APP_ROUTE_NAMES.SHOPPING_CART }"
+            >
+              <i class="bi bi-cart"></i> ({{ cart.totalItemCount }})
+            </RouterLink>
+          </li>
 
           <li class="nav-item" v-if="auth.isLoggedIn">
             <a class="nav-link" @click="auth.logout()">Logout</a>
+          </li>
+          <li class="nav-item" v-if="auth.isLoggedIn">
+            <RouterLink
+              class="nav-link"
+              :to="{ name: APP_ROUTE_NAMES.PERSONAL }"
+              ><i class="bi bi-person fa-3x"> </i
+            ></RouterLink>
           </li>
           <li class="nav-item" v-if="auth.role === 'Admin'">
             <a
@@ -82,9 +105,12 @@ import { onMounted, onBeforeUnmount } from "vue";
 import { useRouter } from "vue-router";
 import { APP_ROUTE_NAMES } from "@/constants/routenames.js";
 import { useAuthStore } from "@/stores/authstore";
+import { useCartStore } from "@/stores/cartstore";
 const auth = useAuthStore();
 const router = useRouter();
-
+const cart = useCartStore();
+console.log(cart.cartItems);
+console.log(cart.totalItemCount);
 function handleNavbarShadow() {
   const navbar = document.querySelector(".navbar");
   if (!navbar) return;
@@ -98,6 +124,7 @@ function handleNavbarShadow() {
 
 onMounted(() => {
   window.addEventListener("scroll", handleNavbarShadow);
+  cart.fetchCartItems();
 });
 
 onBeforeUnmount(() => {

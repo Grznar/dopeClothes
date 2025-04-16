@@ -1,5 +1,5 @@
 import axios from "axios";
-import { reactive, ref } from "vue";
+
 export default {
   async createProduct(productObj) {
     try {
@@ -7,6 +7,7 @@ export default {
         "https://localhost:7072/Product/Create",
         productObj,
         {
+          withCredentials: true,
           headers: {
             "Content-Type": "multipart/form-data",
           },
@@ -23,6 +24,7 @@ export default {
         "https://localhost:7072/Product/Update",
         productObj,
         {
+          withCredentials: true,
           headers: {
             "Content-Type": "multipart/form-data",
           },
@@ -35,7 +37,10 @@ export default {
   },
   async getAllProducts() {
     try {
-      const response = await axios.get("https://localhost:7072/Product/GetAll");
+      const response = await axios.get(
+        "https://localhost:7072/Product/GetAll",
+        { withCredentials: true }
+      );
       return response.data;
     } catch (error) {
       throw error;
@@ -44,7 +49,8 @@ export default {
   async getProduct(id) {
     try {
       const response = await axios.get(
-        "https://localhost:7072/Product/Get/" + id
+        "https://localhost:7072/Product/Get/" + id,
+        { withCredentials: true }
       );
       return response.data;
     } catch (error) {
@@ -54,7 +60,8 @@ export default {
   async deleteProduct(id) {
     try {
       const response = await axios.delete(
-        "https://localhost:7072/Product/Delete/" + id
+        "https://localhost:7072/Product/Delete/" + id,
+        { withCredentials: true }
       );
       return response.data;
     } catch (error) {

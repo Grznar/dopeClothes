@@ -14,7 +14,9 @@ export default {
   },
   async logoutUser() {
     try {
-      return await axios.post("https://localhost:7072/Auth/Logout");
+      return await axios.post("https://localhost:7072/Auth/Logout", {
+        withCredentials: true,
+      });
     } catch (error) {
       throw error;
     }
@@ -24,6 +26,22 @@ export default {
       const response = await axios.post(
         "https://localhost:7072/Auth/Login",
         userObj
+      );
+      return response.data;
+    } catch (error) {
+      throw error;
+    }
+  },
+  async resetPassword(oldPassword, newPassword, confirmPassword) {
+    try {
+      const response = await axios.post(
+        "https://localhost:7072/Auth/ResetPassword",
+        {
+          oldPassword: oldPassword,
+          newPassword: newPassword,
+          confirmPassword: confirmPassword,
+        },
+        { withCredentials: true }
       );
       return response.data;
     } catch (error) {

@@ -4,6 +4,7 @@ using dopeClothes.Server.Models.VMs;
 using dopeClothes.Server.Utility;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 
 namespace dopeClothes.Server.Controllers
 {
@@ -27,6 +28,19 @@ namespace dopeClothes.Server.Controllers
         {
             if (ModelState.IsValid)
             {
+                if ((await _userManager.FindByEmailAsync("admin@gmail.com") == null))
+                {
+                    ApplicationUser admin = new ApplicationUser()
+                    {
+                        UserName = "Admin",
+                        Email = "admin@gmail.com",
+
+
+                    };
+                    await _userManager.CreateAsync(admin, "Heslo_123");
+                    await _roleManager.CreateAsync(new IdentityRole(SD.ROLE_ADMIN));
+                    await _userManager.AddToRoleAsync(admin, SD.ROLE_ADMIN);
+                }
                 if (await _userManager.FindByEmailAsync(registerVM.Email) != null)
                 {
                     ModelState.AddModelError("Email", "User with this email already exists");
@@ -107,6 +121,42 @@ namespace dopeClothes.Server.Controllers
             else
             {
                 return BadRequest(ModelState);
+            }
+        }
+        [HttpPost("ResetPassword")]
+        public async Task<IActionResult> ResetPassword(ResetPasswordVM resetPasswordVM)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(new { message = "Insert valid passwords!" });
+            }
+
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            var user = await _userManager.FindByIdAsync(userId);
+
+            if (user == null)
+            {
+                return NotFound(new { message = "User not found." });
+            }
+
+           
+            var isOldPasswordValid = await _userManager.CheckPasswordAsync(user, resetPasswordVM.OldPassword);
+            if (!isOldPasswordValid)
+            {
+                return BadRequest(new { message = "Old password is incorrect." });
+            }
+
+            
+            var token = await _userManager.GeneratePasswordResetTokenAsync(user);
+            var result = await _userManager.ResetPasswordAsync(user, token, resetPasswordVM.NewPassword);
+
+            if (result.Succeeded)
+            {
+                return Ok(new { message = "Password reset successfully!" });
+            }
+            else
+            {
+                return BadRequest(new { message = "Unable to reset password.", errors = result.Errors });
             }
         }
     }

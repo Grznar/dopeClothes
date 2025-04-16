@@ -3,88 +3,152 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Migrations\\20250415091845_seed-admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dopeClothes.Server\\Migrations\\20250415091845_seed-admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Migrations\\20250415091948_seed-adminn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dopeClothes.Server\\Migrations\\20250415091948_seed-adminn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\models\\vms\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\models\\vms\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\models\\vms\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\models\\vms\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\irepositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\irepositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\irepositories\\iuserrepository.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\irepositories\\iuserrepository.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\irepositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\irepositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\irepositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\irepositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\dopeclothes.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\dopeclothes.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\controllers\\wishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\controllers\\wishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Migrations\\20250416100722_add-shopping-cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dopeClothes.Server\\Migrations\\20250416100722_add-shopping-cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\repositories\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\repositories\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\repositories\\shoppingcartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\repositories\\shoppingcartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\irepositories\\ishoppngcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\irepositories\\ishoppngcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\irepositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\irepositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\repositories\\whishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\repositories\\whishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\irepositories\\iwhishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\irepositories\\iwhishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\models\\vms\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\models\\vms\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\models\\vms\\resetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\models\\vms\\resetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\models\\whishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\models\\whishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Migrations\\20250416062730_edit-wishlist-add-wishlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dopeClothes.Server\\Migrations\\20250416062730_edit-wishlist-add-wishlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\models\\wishlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\models\\wishlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\repositories\\whishlistitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\repositories\\whishlistitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\irepositories\\iwishlistitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\irepositories\\iwishlistitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\irepositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\irepositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\irepositories\\iuserrepository.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\irepositories\\iuserrepository.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Migrations\\20250416061317_edit-wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dopeClothes.Server\\Migrations\\20250416061317_edit-wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Migrations\\20250416040537_seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dopeClothes.Server\\Migrations\\20250416040537_seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\irepositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\irepositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\models\\vms\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\models\\vms\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\dopeclothes.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\dopeclothes.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\models\\vms\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -97,22 +161,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\migrations\\20250413071712_add-product-to-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\migrations\\20250413071712_add-product-to-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\migrations\\20250414055535_add-category-to-product-update-typo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\migrations\\20250414055535_add-category-to-product-update-typo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\migrations\\20250414054844_add-category-to-product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\migrations\\20250414054844_add-category-to-product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\migrations\\20250414071027_addidentitytodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\migrations\\20250414071027_addidentitytodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -122,7 +170,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -130,85 +178,436 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20250415091948_seed-adminn.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Migrations\\20250415091948_seed-adminn.cs",
-              "RelativeDocumentMoniker": "dopeClothes.Server\\Migrations\\20250415091948_seed-adminn.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Migrations\\20250415091948_seed-adminn.cs",
-              "RelativeToolTip": "dopeClothes.Server\\Migrations\\20250415091948_seed-adminn.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "dopeClothes.Server\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwCkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T09:19:48.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20250415091845_seed-admin.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Migrations\\20250415091845_seed-admin.cs",
-              "RelativeDocumentMoniker": "dopeClothes.Server\\Migrations\\20250415091845_seed-admin.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Migrations\\20250415091845_seed-admin.cs",
-              "RelativeToolTip": "dopeClothes.Server\\Migrations\\20250415091845_seed-admin.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T09:18:45.969Z",
+              "WhenOpened": "2025-04-16T09:49:31.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "dopeClothes.Server\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "dopeClothes.Server\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAYwGEAAAA/AAAAAAAAAA==",
+              "Title": "WishController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Controllers\\WishController.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\Controllers\\WishController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Controllers\\WishController.cs",
+              "RelativeToolTip": "dopeClothes.Server\\Controllers\\WishController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T07:11:53.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Program.cs",
-              "RelativeDocumentMoniker": "dopeClothes.Server\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Program.cs",
-              "RelativeToolTip": "dopeClothes.Server\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAkwEAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T06:55:21.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SeedData.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Data\\SeedData.cs",
-              "RelativeDocumentMoniker": "dopeClothes.Server\\Data\\SeedData.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Data\\SeedData.cs",
-              "RelativeToolTip": "dopeClothes.Server\\Data\\SeedData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T09:22:02.203Z",
+              "WhenOpened": "2025-04-16T03:41:24.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "dopeClothes.Server\\Models\\ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T09:41:44.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Repositories\\Repository.cs",
+              "RelativeToolTip": "dopeClothes.Server\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T07:00:34.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250416100722_add-shopping-cart.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Migrations\\20250416100722_add-shopping-cart.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\Migrations\\20250416100722_add-shopping-cart.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Migrations\\20250416100722_add-shopping-cart.cs",
+              "RelativeToolTip": "dopeClothes.Server\\Migrations\\20250416100722_add-shopping-cart.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T10:07:23.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Repositories\\ShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\Repositories\\ShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Repositories\\ShoppingCartRepository.cs",
+              "RelativeToolTip": "dopeClothes.Server\\Repositories\\ShoppingCartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T09:45:24.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShoppingCartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Models\\ShoppingCartItem.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\Models\\ShoppingCartItem.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Models\\ShoppingCartItem.cs",
+              "RelativeToolTip": "dopeClothes.Server\\Models\\ShoppingCartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T09:43:18.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShoppingCartItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Repositories\\ShoppingCartItemRepository.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\Repositories\\ShoppingCartItemRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Repositories\\ShoppingCartItemRepository.cs",
+              "RelativeToolTip": "dopeClothes.Server\\Repositories\\ShoppingCartItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T09:47:16.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IShoppngCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\IRepositories\\IShoppngCartRepository.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\IRepositories\\IShoppngCartRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\IRepositories\\IShoppngCartRepository.cs",
+              "RelativeToolTip": "dopeClothes.Server\\IRepositories\\IShoppngCartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T09:45:02.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "dopeClothes.Server\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T07:12:34.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "dopeClothes.Server\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "dopeClothes.Server\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T06:58:32.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
+              "Title": "WhishListRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Repositories\\WhishListRepository.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\Repositories\\WhishListRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Repositories\\WhishListRepository.cs",
+              "RelativeToolTip": "dopeClothes.Server\\Repositories\\WhishListRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T03:22:42.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\IRepositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\IRepositories\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\IRepositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "dopeClothes.Server\\IRepositories\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T07:12:11.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "dopeClothes.Server\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAgwH0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:11:53.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IWhishListRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\IRepositories\\IWhishListRepository.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\IRepositories\\IWhishListRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\IRepositories\\IWhishListRepository.cs",
+              "RelativeToolTip": "dopeClothes.Server\\IRepositories\\IWhishListRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T03:23:15.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Models\\VMs\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\Models\\VMs\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Models\\VMs\\RegisterVM.cs",
+              "RelativeToolTip": "dopeClothes.Server\\Models\\VMs\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:10:51.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "dopeClothes.Server\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAYwJAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T07:15:01.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ResetPasswordVM.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Models\\VMs\\ResetPasswordVM.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\Models\\VMs\\ResetPasswordVM.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Models\\VMs\\ResetPasswordVM.cs",
+              "RelativeToolTip": "dopeClothes.Server\\Models\\VMs\\ResetPasswordVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:51:11.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WhishList.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Models\\WhishList.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\Models\\WhishList.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Models\\WhishList.cs",
+              "RelativeToolTip": "dopeClothes.Server\\Models\\WhishList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:26:07.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250416062730_edit-wishlist-add-wishlistitem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Migrations\\20250416062730_edit-wishlist-add-wishlistitem.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\Migrations\\20250416062730_edit-wishlist-add-wishlistitem.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Migrations\\20250416062730_edit-wishlist-add-wishlistitem.cs",
+              "RelativeToolTip": "dopeClothes.Server\\Migrations\\20250416062730_edit-wishlist-add-wishlistitem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:27:30.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WhishListItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Repositories\\WhishListItemRepository.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\Repositories\\WhishListItemRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Repositories\\WhishListItemRepository.cs",
+              "RelativeToolTip": "dopeClothes.Server\\Repositories\\WhishListItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:20:07.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WishListItem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Models\\WishListItem.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\Models\\WishListItem.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Models\\WishListItem.cs",
+              "RelativeToolTip": "dopeClothes.Server\\Models\\WishListItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:17:00.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IWishListItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\IRepositories\\IWishListItemRepository.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\IRepositories\\IWishListItemRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\IRepositories\\IWishListItemRepository.cs",
+              "RelativeToolTip": "dopeClothes.Server\\IRepositories\\IWishListItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:19:14.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "dopeClothes.Server\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T07:10:58.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserRepository.cs.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\IRepositories\\IUserRepository.cs.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\IRepositories\\IUserRepository.cs.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\IRepositories\\IUserRepository.cs.cs",
+              "RelativeToolTip": "dopeClothes.Server\\IRepositories\\IUserRepository.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T07:10:09.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\IRepositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\IRepositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\IRepositories\\IRepository.cs",
+              "RelativeToolTip": "dopeClothes.Server\\IRepositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T07:00:41.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Program.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Program.cs",
+              "RelativeToolTip": "dopeClothes.Server\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T06:55:21.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250416061317_edit-wishlist.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Migrations\\20250416061317_edit-wishlist.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\Migrations\\20250416061317_edit-wishlist.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Migrations\\20250416061317_edit-wishlist.cs",
+              "RelativeToolTip": "dopeClothes.Server\\Migrations\\20250416061317_edit-wishlist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:13:17.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250416040537_seed.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Migrations\\20250416040537_seed.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\Migrations\\20250416040537_seed.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Migrations\\20250416040537_seed.cs",
+              "RelativeToolTip": "dopeClothes.Server\\Migrations\\20250416040537_seed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:05:37.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Models\\Product.cs",
+              "RelativeToolTip": "dopeClothes.Server\\Models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T07:07:30.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Data\\SeedData.cs",
+              "RelativeToolTip": "dopeClothes.Server\\Data\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:22:02.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\IRepositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\IRepositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\IRepositories\\IProductRepository.cs",
+              "RelativeToolTip": "dopeClothes.Server\\IRepositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:09:13.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "dopeClothes.Server\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "dopeClothes.Server\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:03:37.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "SD.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Utility\\SD.cs",
               "RelativeDocumentMoniker": "dopeClothes.Server\\Utility\\SD.cs",
@@ -220,7 +619,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 34,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "dopeClothes.Server\\Models\\ApplicationUser.cs",
@@ -232,7 +631,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 33,
               "Title": "LoginVM.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Models\\VMs\\LoginVM.cs",
               "RelativeDocumentMoniker": "dopeClothes.Server\\Models\\VMs\\LoginVM.cs",
@@ -240,144 +639,11 @@
               "RelativeToolTip": "dopeClothes.Server\\Models\\VMs\\LoginVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T07:21:57.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T07:21:57.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RegisterVM.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Models\\VMs\\RegisterVM.cs",
-              "RelativeDocumentMoniker": "dopeClothes.Server\\Models\\VMs\\RegisterVM.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Models\\VMs\\RegisterVM.cs",
-              "RelativeToolTip": "dopeClothes.Server\\Models\\VMs\\RegisterVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T07:10:51.419Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "dopeClothes.Server\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "dopeClothes.Server\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T07:15:01.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "20250414071027_addIdentityToDb.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Migrations\\20250414071027_addIdentityToDb.cs",
-              "RelativeDocumentMoniker": "dopeClothes.Server\\Migrations\\20250414071027_addIdentityToDb.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Migrations\\20250414071027_addIdentityToDb.cs",
-              "RelativeToolTip": "dopeClothes.Server\\Migrations\\20250414071027_addIdentityToDb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T07:10:27.498Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\IRepositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "dopeClothes.Server\\IRepositories\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\IRepositories\\IProductRepository.cs",
-              "RelativeToolTip": "dopeClothes.Server\\IRepositories\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T07:09:13.33Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "dopeClothes.Server\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "dopeClothes.Server\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T07:03:37.385Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "dopeClothes.Server\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "dopeClothes.Server\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T07:10:58.36Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\IRepositories\\IRepository.cs",
-              "RelativeDocumentMoniker": "dopeClothes.Server\\IRepositories\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\IRepositories\\IRepository.cs",
-              "RelativeToolTip": "dopeClothes.Server\\IRepositories\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T07:00:41.236Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IUserRepository.cs.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\IRepositories\\IUserRepository.cs.cs",
-              "RelativeDocumentMoniker": "dopeClothes.Server\\IRepositories\\IUserRepository.cs.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\IRepositories\\IUserRepository.cs.cs",
-              "RelativeToolTip": "dopeClothes.Server\\IRepositories\\IUserRepository.cs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T07:10:09.229Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Repositories\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "dopeClothes.Server\\Repositories\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Repositories\\UnitOfWork.cs",
-              "RelativeToolTip": "dopeClothes.Server\\Repositories\\UnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T07:12:34.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\IRepositories\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "dopeClothes.Server\\IRepositories\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\IRepositories\\IUnitOfWork.cs",
-              "RelativeToolTip": "dopeClothes.Server\\IRepositories\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T07:12:11.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "dopeClothes.Server\\Repositories\\Repository.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Repositories\\Repository.cs",
-              "RelativeToolTip": "dopeClothes.Server\\Repositories\\Repository.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwDgAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T07:00:34.563Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 37,
               "Title": "ProductVM.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Models\\VMs\\ProductVM.cs",
               "RelativeDocumentMoniker": "dopeClothes.Server\\Models\\VMs\\ProductVM.cs",
@@ -389,19 +655,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "20250414054844_add-category-to-product.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Migrations\\20250414054844_add-category-to-product.cs",
-              "RelativeDocumentMoniker": "dopeClothes.Server\\Migrations\\20250414054844_add-category-to-product.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Migrations\\20250414054844_add-category-to-product.cs",
-              "RelativeToolTip": "dopeClothes.Server\\Migrations\\20250414054844_add-category-to-product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T05:48:44.474Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 39,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\appsettings.json",
               "RelativeDocumentMoniker": "dopeClothes.Server\\appsettings.json",
@@ -413,7 +667,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 36,
               "Title": "dopeClothes.Server.csproj",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\dopeClothes.Server.csproj",
               "RelativeDocumentMoniker": "dopeClothes.Server\\dopeClothes.Server.csproj",
@@ -425,31 +679,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "20250414055535_add-category-to-product-update-typo.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Migrations\\20250414055535_add-category-to-product-update-typo.cs",
-              "RelativeDocumentMoniker": "dopeClothes.Server\\Migrations\\20250414055535_add-category-to-product-update-typo.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Migrations\\20250414055535_add-category-to-product-update-typo.cs",
-              "RelativeToolTip": "dopeClothes.Server\\Migrations\\20250414055535_add-category-to-product-update-typo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T05:55:35.688Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "dopeClothes.Server\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Models\\Product.cs",
-              "RelativeToolTip": "dopeClothes.Server\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T07:07:30.202Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 38,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "dopeClothes.Server\\Properties\\launchSettings.json",
@@ -458,18 +688,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-14T04:47:15.588Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "20250413071712_add-product-to-db.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Migrations\\20250413071712_add-product-to-db.cs",
-              "RelativeDocumentMoniker": "dopeClothes.Server\\Migrations\\20250413071712_add-product-to-db.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Migrations\\20250413071712_add-product-to-db.cs",
-              "RelativeToolTip": "dopeClothes.Server\\Migrations\\20250413071712_add-product-to-db.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T07:17:12.547Z"
             }
           ]
         },

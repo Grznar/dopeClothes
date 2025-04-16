@@ -7,11 +7,17 @@ import DetailsProduct from "@/views/Product/DetailsProduct.vue";
 import ProductsHome from "@/views/Product/ProductsHome.vue";
 import Register from "@/views/Auth/RegisterForm.vue";
 import Login from "@/views/Auth/LoginForm.vue";
+import Contact from "@/views/others/Contact.vue";
+import ProductCardDetails from "@/views/Product/ProductCardDetails.vue";
 import { useAuthStore } from "@/stores/authstore";
+import Personal from "@/views/others/Personal.vue";
+import ChangePassword from "@/views/Auth/ChangePassword.vue";
+import ShoppingCart from "@/views/others/ShoppingCart.vue";
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
     { path: "/", component: Home, name: APP_ROUTE_NAMES.HOME },
+    { path: "/contact", component: Contact, name: APP_ROUTE_NAMES.CONTACT },
     {
       path: "/create-product",
       component: CreateProduct,
@@ -39,6 +45,13 @@ const router = createRouter({
       props: true,
     },
     {
+      path: "/product-card-detials/:id",
+      component: ProductCardDetails,
+      name: APP_ROUTE_NAMES.PRODUCTCARDDETAILS,
+      meta: { requiresAuth: true },
+      props: true,
+    },
+    {
       path: "/register",
       component: Register,
       name: APP_ROUTE_NAMES.REGISTER,
@@ -49,6 +62,24 @@ const router = createRouter({
       component: Login,
       name: APP_ROUTE_NAMES.LOGIN,
       meta: { requiresGuest: true },
+    },
+    {
+      path: "/personal",
+      component: Personal,
+      name: APP_ROUTE_NAMES.PERSONAL,
+      meta: { requiresAuth: true },
+    },
+    {
+      path: "/change-password",
+      component: ChangePassword,
+      name: APP_ROUTE_NAMES.CHANGE_PASSWORD,
+      meta: { requiresAuth: true },
+    },
+    {
+      path: "/shopping-cart",
+      component: ShoppingCart,
+      name: APP_ROUTE_NAMES.SHOPPING_CART,
+      meta: { requiresAuth: true },
     },
   ],
 });

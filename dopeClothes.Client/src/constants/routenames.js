@@ -1,3 +1,5 @@
+import ChangePassword from "@/views/Auth/ChangePassword.vue";
+
 export const APP_ROUTE_NAMES = Object.freeze({
   HOME: "home",
   REGISTER: "register",
@@ -9,4 +11,9 @@ export const APP_ROUTE_NAMES = Object.freeze({
   PRODUCTS_HOME: "products-home",
   REGISTER: "register",
   LOGIN: "login",
+  CONTACT: "contact",
+  PRODUCTCARDDETAILS: "product-card-details",
+  PERSONAL: "personal",
+  CHANGE_PASSWORD: "change-password",
+  SHOPPING_CART: "shopping-cart",
 });

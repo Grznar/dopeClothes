@@ -12,8 +12,8 @@ using dopeClothes.Server.Data;
 namespace dopeClothes.Server.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250415091845_seed-admin")]
-    partial class seedadmin
+    [Migration("20250416062730_edit-wishlist-add-wishlistitem")]
+    partial class editwishlistaddwishlistitem
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -50,14 +50,6 @@ namespace dopeClothes.Server.Migrations
                         .HasFilter("[NormalizedName] IS NOT NULL");
 
                     b.ToTable("AspNetRoles", (string)null);
-
-                    b.HasData(
-                        new
-                        {
-                            Id = "22e53318-7db9-4610-8611-04bcd42926d8",
-                            Name = "Admin",
-                            NormalizedName = "ADMIN"
-                        });
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -145,13 +137,6 @@ namespace dopeClothes.Server.Migrations
                     b.HasIndex("RoleId");
 
                     b.ToTable("AspNetUserRoles", (string)null);
-
-                    b.HasData(
-                        new
-                        {
-                            UserId = "8b4221c4-db18-4aca-8360-59119ebe4323",
-                            RoleId = "22e53318-7db9-4610-8611-04bcd42926d8"
-                        });
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserToken<string>", b =>
@@ -236,24 +221,6 @@ namespace dopeClothes.Server.Migrations
                         .HasFilter("[NormalizedUserName] IS NOT NULL");
 
                     b.ToTable("AspNetUsers", (string)null);
-
-                    b.HasData(
-                        new
-                        {
-                            Id = "8b4221c4-db18-4aca-8360-59119ebe4323",
-                            AccessFailedCount = 0,
-                            ConcurrencyStamp = "d90f33c4-513a-427d-b9c9-b96dd41b9f99",
-                            Email = "admin@gmail.com",
-                            EmailConfirmed = true,
-                            LockoutEnabled = false,
-                            NormalizedEmail = "ADMIN@GMAIL.COM",
-                            NormalizedUserName = "ADMIN123",
-                            PasswordHash = "AQAAAAIAAYagAAAAELnvj3C93Os0BxlVpZe+KMR2y0w7YV2JqniZuIgmiOYv2sV0DugoDaBe9jRQXeQOtQ==",
-                            PhoneNumberConfirmed = false,
-                            SecurityStamp = "e746bd59-e22e-45a5-99e5-e04bed6d0208",
-                            TwoFactorEnabled = false,
-                            UserName = "admin123"
-                        });
                 });
 
             modelBuilder.Entity("dopeClothes.Server.Models.Product", b =>
@@ -287,6 +254,48 @@ namespace dopeClothes.Server.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Products");
+                });
+
+            modelBuilder.Entity("dopeClothes.Server.Models.WhishList", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("WhishLists");
+                });
+
+            modelBuilder.Entity("dopeClothes.Server.Models.WishListItem", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("WishListId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ProductId");
+
+                    b.HasIndex("WishListId");
+
+                    b.ToTable("WishListItems");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -338,6 +347,36 @@ namespace dopeClothes.Server.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("dopeClothes.Server.Models.WhishList", b =>
+                {
+                    b.HasOne("dopeClothes.Server.Models.ApplicationUser", "ApplicationUser")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("ApplicationUser");
+                });
+
+            modelBuilder.Entity("dopeClothes.Server.Models.WishListItem", b =>
+                {
+                    b.HasOne("dopeClothes.Server.Models.Product", "Product")
+                        .WithMany()
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("dopeClothes.Server.Models.WhishList", "WhishList")
+                        .WithMany()
+                        .HasForeignKey("WishListId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Product");
+
+                    b.Navigation("WhishList");
                 });
 #pragma warning restore 612, 618
         }
