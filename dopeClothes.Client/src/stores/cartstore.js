@@ -19,7 +19,7 @@ export const useCartStore = defineStore("cart", {
 
         this.items = response;
       } catch (error) {
-        console.error(error.message);
+        throw error;
       }
     },
     async insertProductToCart(productId) {
@@ -30,7 +30,25 @@ export const useCartStore = defineStore("cart", {
         this.fetchCartItems();
         return response;
       } catch (error) {
-        console.error(error.message);
+        throw error;
+      }
+    },
+    async decreaseProduct(productId) {
+      try {
+        const response = await shoppingcartService.decreaseProduct(productId);
+        this.fetchCartItems();
+        return response;
+      } catch (error) {
+        throw error;
+      }
+    },
+    async increaseProduct(productId) {
+      try {
+        const response = await shoppingcartService.increaseProduct(productId);
+        this.fetchCartItems();
+        return response;
+      } catch (error) {
+        throw error;
       }
     },
   },

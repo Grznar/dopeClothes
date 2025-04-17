@@ -8,6 +8,7 @@
         public IWishListItemRepository WishListItems { get; }
         public IShoppingCartRepository ShoppingCarts { get; }
              public IShoppingCartItemRepository ShoppingCartItems { get; }
+        public IOrderRepository Orders { get; }
         void Save();
     }
 }

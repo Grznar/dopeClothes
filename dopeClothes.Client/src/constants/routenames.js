@@ -16,4 +16,7 @@ export const APP_ROUTE_NAMES = Object.freeze({
   PERSONAL: "personal",
   CHANGE_PASSWORD: "change-password",
   SHOPPING_CART: "shopping-cart",
+  ORDER: "order",
+  ORDER_LIST: "order-list",
+  MY_ORDER: "my-order",
 });

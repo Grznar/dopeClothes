@@ -12,6 +12,7 @@ namespace dopeClothes.Server.Repositories
         public IWishListItemRepository WishListItems { get; private set; }
         public IShoppingCartRepository ShoppingCarts { get; private set; }
         public IShoppingCartItemRepository ShoppingCartItems { get; private set; }
+        public IOrderRepository Orders { get; private set; }
         public UnitOfWork(ApplicationDbContext db)
         {
             _db = db;
@@ -21,6 +22,7 @@ namespace dopeClothes.Server.Repositories
             WishListItems = new WhishListItemRepository(_db);
             ShoppingCarts = new ShoppingCartRepository(_db);
             ShoppingCartItems = new ShoppingCartItemRepository(_db);
+            Orders = new OrderRepository(_db);
 
         }
 

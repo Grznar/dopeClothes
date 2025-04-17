@@ -220,6 +220,33 @@ namespace dopeClothes.Server.Migrations
                     b.ToTable("AspNetUsers", (string)null);
                 });
 
+            modelBuilder.Entity("dopeClothes.Server.Models.Order", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("OrderStatus")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("ShoppingCartId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ShoppingCartId");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("Orders");
+                });
+
             modelBuilder.Entity("dopeClothes.Server.Models.Product", b =>
                 {
                     b.Property<int>("Id")
@@ -391,6 +418,25 @@ namespace dopeClothes.Server.Migrations
                         .IsRequired();
                 });
 
+            modelBuilder.Entity("dopeClothes.Server.Models.Order", b =>
+                {
+                    b.HasOne("dopeClothes.Server.Models.ShoppingCart", "ShoppingCart")
+                        .WithMany("Orders")
+                        .HasForeignKey("ShoppingCartId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.HasOne("dopeClothes.Server.Models.ApplicationUser", "ApplicationUser")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("ApplicationUser");
+
+                    b.Navigation("ShoppingCart");
+                });
+
             modelBuilder.Entity("dopeClothes.Server.Models.ShoppingCart", b =>
                 {
                     b.HasOne("dopeClothes.Server.Models.ApplicationUser", "ApplicationUser")
@@ -449,6 +495,11 @@ namespace dopeClothes.Server.Migrations
                     b.Navigation("Product");
 
                     b.Navigation("WhishList");
+                });
+
+            modelBuilder.Entity("dopeClothes.Server.Models.ShoppingCart", b =>
+                {
+                    b.Navigation("Orders");
                 });
 #pragma warning restore 612, 618
         }

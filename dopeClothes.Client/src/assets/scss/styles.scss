@@ -81,6 +81,12 @@
     line-height: 4rem;
   }
 }
+@media (max-width: 700px) {
+  .xl-text {
+    font-size: 50px;
+  }
+}
+
 @media (min-width: 992px) {
   .masthead {
     height: 100vh;

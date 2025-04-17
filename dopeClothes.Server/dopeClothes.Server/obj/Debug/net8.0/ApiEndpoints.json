@@ -58,6 +58,79 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "dopeClothes.Server.Controllers.OrderController",
+    "Method": "GetAllOrders",
+    "RelativePath": "Order/GetAllOrders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "dopeClothes.Server.Controllers.OrderController",
+    "Method": "GetMyOrders",
+    "RelativePath": "Order/GetMyOrders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "dopeClothes.Server.Controllers.OrderController",
+    "Method": "GetOrder",
+    "RelativePath": "Order/GetOrder/{shoppingCartId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shoppingCartId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "dopeClothes.Server.Controllers.OrderController",
+    "Method": "PlaceOrder",
+    "RelativePath": "Order/PlaceOrder/{shoppingCartId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shoppingCartId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "dopeClothes.Server.Controllers.OrderController",
+    "Method": "UpdateOrderStatus",
+    "RelativePath": "Order/UpdateOrderStatus/{orderId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "dopeClothes.Server.Controllers.OrderController\u002BStatusUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "dopeClothes.Server.Controllers.ProductController",
     "Method": "Create",
     "RelativePath": "Product/Create",
@@ -203,12 +276,44 @@
   },
   {
     "ContainingType": "dopeClothes.Server.Controllers.ShoppingCartController",
+    "Method": "DecreaseProduct",
+    "RelativePath": "ShoppingCart/DecreaseProduct/{productId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "dopeClothes.Server.Controllers.ShoppingCartController",
     "Method": "FetchShopCart",
     "RelativePath": "ShoppingCart/FetchShopCart",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "dopeClothes.Server.Controllers.ShoppingCartController",
+    "Method": "IncreaseProduct",
+    "RelativePath": "ShoppingCart/IncreaseProduct/{productId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {

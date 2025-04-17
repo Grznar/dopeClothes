@@ -49,6 +49,13 @@ builder.Services.ConfigureApplicationCookie(options =>
         return Task.CompletedTask;
     };
 });
+builder.Services
+  .AddControllers()
+  .AddJsonOptions(opts =>
+  {
+      opts.JsonSerializerOptions.ReferenceHandler =
+          System.Text.Json.Serialization.ReferenceHandler.IgnoreCycles;
+  });
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddDbContext<ApplicationDbContext>(options=>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));

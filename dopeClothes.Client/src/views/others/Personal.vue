@@ -43,7 +43,12 @@
                       </button>
                     </div>
                     <div class="col-6 mb-3 mt-5">
-                      <button class="btn btn-success">My Orders</button>
+                      <button
+                        class="btn btn-success"
+                        @click="router.push(APP_ROUTE_NAMES.MY_ORDER)"
+                      >
+                        My Orders
+                      </button>
                     </div>
                   </div>
                 </div>

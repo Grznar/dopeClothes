@@ -94,6 +94,11 @@
               >Product List</a
             >
           </li>
+          <li class="nav-item" v-if="auth.role === 'Admin'">
+            <a class="nav-link" @click="router.push(APP_ROUTE_NAMES.ORDER_LIST)"
+              >Order List</a
+            >
+          </li>
         </ul>
       </div>
     </div>
@@ -109,8 +114,7 @@ import { useCartStore } from "@/stores/cartstore";
 const auth = useAuthStore();
 const router = useRouter();
 const cart = useCartStore();
-console.log(cart.cartItems);
-console.log(cart.totalItemCount);
+
 function handleNavbarShadow() {
   const navbar = document.querySelector(".navbar");
   if (!navbar) return;

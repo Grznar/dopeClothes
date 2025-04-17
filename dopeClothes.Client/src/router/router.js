@@ -12,7 +12,10 @@ import ProductCardDetails from "@/views/Product/ProductCardDetails.vue";
 import { useAuthStore } from "@/stores/authstore";
 import Personal from "@/views/others/Personal.vue";
 import ChangePassword from "@/views/Auth/ChangePassword.vue";
-import ShoppingCart from "@/views/others/ShoppingCart.vue";
+import ShoppingCart from "@/views/ShoppingCarts_Orders/ShoppingCart.vue";
+import Order from "@/views/ShoppingCarts_Orders/Order.vue";
+import OrdersList from "@/views/others/OrdersList.vue";
+import MyOrder from "@/views/others/MyOrder.vue";
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
@@ -79,6 +82,19 @@ const router = createRouter({
       path: "/shopping-cart",
       component: ShoppingCart,
       name: APP_ROUTE_NAMES.SHOPPING_CART,
+      meta: { requiresAuth: true },
+    },
+    {
+      path: "/order/:cartId",
+      component: Order,
+      name: APP_ROUTE_NAMES.ORDER,
+      meta: { requiresAuth: true },
+      props: true,
+    },
+    {
+      path: "/my-order",
+      component: MyOrder,
+      name: APP_ROUTE_NAMES.MY_ORDER,
       meta: { requiresAuth: true },
     },
   ],
