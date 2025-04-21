@@ -22,6 +22,9 @@ export default {
         { withCredentials: true }
       );
 
+      if (response.data.items.length === 0) {
+        return null;
+      }
       return response.data.items;
     } catch (error) {
       throw error;
