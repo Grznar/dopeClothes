@@ -1,4 +1,4 @@
-import { APP_ROUTE_NAMES } from "@/constants/routeNames";
+import { APP_ROUTE_NAMES } from "@/constants/routenames.js";
 import { createRouter, createWebHistory } from "vue-router";
 import Home from "@/views/others/Home.vue";
 import ProductList from "@/views/Product/ProductList.vue";
