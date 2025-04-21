@@ -142,11 +142,8 @@ async function refresh() {
 
     if (response) {
       myItems.value = response.listOfItems;
-      console.log(myItems);
     }
-  } catch (error) {
-    await swal.showError(error.message);
-  }
+  } catch (error) {}
 }
 onMounted(async () => {
   await refresh();

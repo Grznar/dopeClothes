@@ -128,7 +128,9 @@ function handleNavbarShadow() {
 
 onMounted(() => {
   window.addEventListener("scroll", handleNavbarShadow);
-  cart.fetchCartItems();
+  if (auth.isLoggedIn) {
+    cart.fetchCartItems();
+  }
 });
 
 onBeforeUnmount(() => {

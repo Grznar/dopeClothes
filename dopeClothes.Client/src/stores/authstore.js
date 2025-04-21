@@ -1,6 +1,7 @@
 import { defineStore } from "pinia";
 import authService from "@/services/authService";
 import { computed } from "vue";
+import { APP_ROUTE_NAMES } from "@/constants/routenames";
 export const useAuthStore = defineStore("auth", {
   state: () => ({
     user: null,
@@ -27,7 +28,7 @@ export const useAuthStore = defineStore("auth", {
         await authService.logoutUser();
         this.user = null;
         this.role = null;
-        router.push({ name: "LOGIN" });
+        router.push({ name: APP_ROUTE_NAMES.LOGIN });
         return response;
       } catch (error) {
         throw error;
