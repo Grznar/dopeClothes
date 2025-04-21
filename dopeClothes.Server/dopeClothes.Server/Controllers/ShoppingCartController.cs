@@ -71,7 +71,7 @@ namespace dopeClothes.Server.Controllers
             var shoppingCart = _unitOfWork.ShoppingCarts.Get(x => x.UserId == userId);
             if (shoppingCart == null) return BadRequest(new { message = "Shop some items first!" });
             var items = _unitOfWork.ShoppingCartItems.GetAll(x => x.ShoppingCartId == shoppingCart.Id, includeProperties: "Product");
-            if (items == null) return BadRequest(new { message = "No items in shopping cart" });
+            if (items == null) return Ok(new { message = "No items in shopping cart" });
             return Ok(new { items = items });
 
 
