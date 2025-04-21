@@ -69,7 +69,7 @@ namespace dopeClothes.Server.Controllers
             var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
             if (userId == null) return BadRequest(new { message = "User not found" });
             var shoppingCart = _unitOfWork.ShoppingCarts.Get(x => x.UserId == userId);
-            if (shoppingCart == null) return BadRequest(new { message = "Shop some items first!" });
+            if (shoppingCart == null) return Ok(new { message = "Shop some items first!" });
             var items = _unitOfWork.ShoppingCartItems.GetAll(x => x.ShoppingCartId == shoppingCart.Id, includeProperties: "Product");
             if (items == null) return Ok(new { message = "No items in shopping cart" });
             return Ok(new { items = items });
