@@ -4,7 +4,7 @@ export default {
   async insertProductToCart(productId) {
     try {
       const response = await axios.post(
-        "https://localhost:7072/ShoppingCart/InsertProductToShopCart/" +
+        "https://dopeclothesserver.azurewebsites.net/ShoppingCart/InsertProductToShopCart/" +
           productId,
         {},
         { withCredentials: true }
@@ -18,7 +18,7 @@ export default {
   async fetchMyShoppingCart() {
     try {
       const response = await axios.get(
-        "https://localhost:7072/ShoppingCart/FetchShopCart",
+        "https://dopeclothesserver.azurewebsites.net/ShoppingCart/FetchShopCart",
         { withCredentials: true }
       );
 
@@ -30,7 +30,8 @@ export default {
   async decreaseProduct(productId) {
     try {
       const response = await axios.post(
-        "https://localhost:7072/ShoppingCart/DecreaseProduct/" + productId,
+        "https://dopeclothesserver.azurewebsites.net/ShoppingCart/DecreaseProduct/" +
+          productId,
         {},
         { withCredentials: true }
       );
@@ -41,7 +42,8 @@ export default {
   async increaseProduct(productId) {
     try {
       const response = await axios.post(
-        "https://localhost:7072/ShoppingCart/IncreaseProduct/" + productId,
+        "https://dopeclothesserver.azurewebsites.net/ShoppingCart/IncreaseProduct/" +
+          productId,
         {},
         { withCredentials: true }
       );

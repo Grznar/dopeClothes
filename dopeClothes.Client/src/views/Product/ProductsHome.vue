@@ -77,7 +77,7 @@
 .hero-bg {
   width: 100%;
   height: 400px;
-  background: url("@/assets/images/productHome.png") no-repeat center center;
+  background: url("@/assets/images/producthome.png") no-repeat center center;
   background-size: cover;
 }
 .search-container {

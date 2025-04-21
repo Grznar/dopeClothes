@@ -1,0 +1,172 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/dopeClothes.Server/images/0f03ed65-ba6e-41fd-8661-b2d2a4433eff.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\0f03ed65-ba6e-41fd-8661-b2d2a4433eff.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3759"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 04:17:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dopeClothes.Server/images/0f03ed65-ba6e-41fd-8661-b2d2a4433eff.opn7dc83la.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\0f03ed65-ba6e-41fd-8661-b2d2a4433eff.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"opn7dc83la"},{"Name":"integrity","Value":"sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="},{"Name":"label","Value":"_content/dopeClothes.Server/images/0f03ed65-ba6e-41fd-8661-b2d2a4433eff.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3759"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 04:17:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dopeClothes.Server/images/410f39c0-96d1-49c1-99ff-4ffed5951aa5.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\410f39c0-96d1-49c1-99ff-4ffed5951aa5.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3759"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 04:18:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dopeClothes.Server/images/410f39c0-96d1-49c1-99ff-4ffed5951aa5.opn7dc83la.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\410f39c0-96d1-49c1-99ff-4ffed5951aa5.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"opn7dc83la"},{"Name":"integrity","Value":"sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="},{"Name":"label","Value":"_content/dopeClothes.Server/images/410f39c0-96d1-49c1-99ff-4ffed5951aa5.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3759"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 04:18:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dopeClothes.Server/images/48e3d01f-348c-43df-9b43-44194c58fafd.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\48e3d01f-348c-43df-9b43-44194c58fafd.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3759"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 05:51:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dopeClothes.Server/images/48e3d01f-348c-43df-9b43-44194c58fafd.opn7dc83la.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\48e3d01f-348c-43df-9b43-44194c58fafd.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"opn7dc83la"},{"Name":"integrity","Value":"sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="},{"Name":"label","Value":"_content/dopeClothes.Server/images/48e3d01f-348c-43df-9b43-44194c58fafd.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3759"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 05:51:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dopeClothes.Server/images/536f4f8b-16d1-4aac-a522-8240c66bdb29.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\536f4f8b-16d1-4aac-a522-8240c66bdb29.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3759"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 13 Apr 2025 08:35:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dopeClothes.Server/images/536f4f8b-16d1-4aac-a522-8240c66bdb29.opn7dc83la.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\536f4f8b-16d1-4aac-a522-8240c66bdb29.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"opn7dc83la"},{"Name":"integrity","Value":"sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="},{"Name":"label","Value":"_content/dopeClothes.Server/images/536f4f8b-16d1-4aac-a522-8240c66bdb29.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3759"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 13 Apr 2025 08:35:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dopeClothes.Server/images/5d798e14-5a38-43c6-9e83-3000f263dea0.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\5d798e14-5a38-43c6-9e83-3000f263dea0.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3759"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 13 Apr 2025 08:27:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dopeClothes.Server/images/5d798e14-5a38-43c6-9e83-3000f263dea0.opn7dc83la.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\5d798e14-5a38-43c6-9e83-3000f263dea0.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"opn7dc83la"},{"Name":"integrity","Value":"sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="},{"Name":"label","Value":"_content/dopeClothes.Server/images/5d798e14-5a38-43c6-9e83-3000f263dea0.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3759"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 13 Apr 2025 08:27:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dopeClothes.Server/images/5ddf6159-6a2e-4874-94da-c347b79e8b1e.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\5ddf6159-6a2e-4874-94da-c347b79e8b1e.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3759"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 04:18:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dopeClothes.Server/images/5ddf6159-6a2e-4874-94da-c347b79e8b1e.opn7dc83la.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\5ddf6159-6a2e-4874-94da-c347b79e8b1e.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"opn7dc83la"},{"Name":"integrity","Value":"sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="},{"Name":"label","Value":"_content/dopeClothes.Server/images/5ddf6159-6a2e-4874-94da-c347b79e8b1e.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3759"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 04:18:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dopeClothes.Server/images/5dee1c5b-b59d-4110-8b61-cead750ca62a.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\5dee1c5b-b59d-4110-8b61-cead750ca62a.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3759"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 05:50:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dopeClothes.Server/images/5dee1c5b-b59d-4110-8b61-cead750ca62a.opn7dc83la.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\5dee1c5b-b59d-4110-8b61-cead750ca62a.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"opn7dc83la"},{"Name":"integrity","Value":"sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="},{"Name":"label","Value":"_content/dopeClothes.Server/images/5dee1c5b-b59d-4110-8b61-cead750ca62a.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3759"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 05:50:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dopeClothes.Server/images/613e811b-fbb2-4bde-835b-8ec551bc4efa.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\613e811b-fbb2-4bde-835b-8ec551bc4efa.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3759"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 13 Apr 2025 08:15:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dopeClothes.Server/images/613e811b-fbb2-4bde-835b-8ec551bc4efa.opn7dc83la.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\613e811b-fbb2-4bde-835b-8ec551bc4efa.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"opn7dc83la"},{"Name":"integrity","Value":"sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="},{"Name":"label","Value":"_content/dopeClothes.Server/images/613e811b-fbb2-4bde-835b-8ec551bc4efa.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3759"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 13 Apr 2025 08:15:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dopeClothes.Server/images/635b4c75-56ce-43b4-91ad-5fcc2170c764.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\635b4c75-56ce-43b4-91ad-5fcc2170c764.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3759"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 13 Apr 2025 08:29:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dopeClothes.Server/images/635b4c75-56ce-43b4-91ad-5fcc2170c764.opn7dc83la.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\635b4c75-56ce-43b4-91ad-5fcc2170c764.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"opn7dc83la"},{"Name":"integrity","Value":"sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="},{"Name":"label","Value":"_content/dopeClothes.Server/images/635b4c75-56ce-43b4-91ad-5fcc2170c764.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3759"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 13 Apr 2025 08:29:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dopeClothes.Server/images/6f025070-d026-4266-9691-1b590e4067cc.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\6f025070-d026-4266-9691-1b590e4067cc.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3759"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 08:32:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dopeClothes.Server/images/6f025070-d026-4266-9691-1b590e4067cc.opn7dc83la.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\6f025070-d026-4266-9691-1b590e4067cc.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"opn7dc83la"},{"Name":"integrity","Value":"sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="},{"Name":"label","Value":"_content/dopeClothes.Server/images/6f025070-d026-4266-9691-1b590e4067cc.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3759"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 08:32:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dopeClothes.Server/images/89276e2d-6376-4616-a9c5-127c080395f9.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\89276e2d-6376-4616-a9c5-127c080395f9.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3759"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 13 Apr 2025 08:10:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dopeClothes.Server/images/89276e2d-6376-4616-a9c5-127c080395f9.opn7dc83la.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\89276e2d-6376-4616-a9c5-127c080395f9.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"opn7dc83la"},{"Name":"integrity","Value":"sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="},{"Name":"label","Value":"_content/dopeClothes.Server/images/89276e2d-6376-4616-a9c5-127c080395f9.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3759"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 13 Apr 2025 08:10:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dopeClothes.Server/images/8b8e99a9-20dd-462b-a559-e83f5cce9e28.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\8b8e99a9-20dd-462b-a559-e83f5cce9e28.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3759"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 04:18:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dopeClothes.Server/images/8b8e99a9-20dd-462b-a559-e83f5cce9e28.opn7dc83la.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\8b8e99a9-20dd-462b-a559-e83f5cce9e28.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"opn7dc83la"},{"Name":"integrity","Value":"sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="},{"Name":"label","Value":"_content/dopeClothes.Server/images/8b8e99a9-20dd-462b-a559-e83f5cce9e28.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3759"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 04:18:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dopeClothes.Server/images/9434b305-5a76-4e1f-a298-9adea2640a1e.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\9434b305-5a76-4e1f-a298-9adea2640a1e.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3759"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 13 Apr 2025 08:31:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dopeClothes.Server/images/9434b305-5a76-4e1f-a298-9adea2640a1e.opn7dc83la.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\9434b305-5a76-4e1f-a298-9adea2640a1e.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"opn7dc83la"},{"Name":"integrity","Value":"sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="},{"Name":"label","Value":"_content/dopeClothes.Server/images/9434b305-5a76-4e1f-a298-9adea2640a1e.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3759"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 13 Apr 2025 08:31:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dopeClothes.Server/images/bba32a19-6322-447e-a958-bad0233cc525.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bba32a19-6322-447e-a958-bad0233cc525.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3759"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 13 Apr 2025 08:29:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dopeClothes.Server/images/bba32a19-6322-447e-a958-bad0233cc525.opn7dc83la.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bba32a19-6322-447e-a958-bad0233cc525.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"opn7dc83la"},{"Name":"integrity","Value":"sha256-NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI="},{"Name":"label","Value":"_content/dopeClothes.Server/images/bba32a19-6322-447e-a958-bad0233cc525.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3759"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NG/t1VbkChvMXmooJPRDCH3IMsvNVrhn25boooJsvlI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 13 Apr 2025 08:29:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

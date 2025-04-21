@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_BASE = "https://localhost:7072";
+const API_BASE = "https://dopeclothesserver.azurewebsites.net";
 
 export default {
   async getAllOrders() {

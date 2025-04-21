@@ -4,7 +4,8 @@ export default {
   async addToWishlist(productId) {
     try {
       const response = await axios.post(
-        "https://localhost:7072/Wish/InsertProduct/" + productId,
+        "https://dopeclothesserver.azurewebsites.net/Wish/InsertProduct/" +
+          productId,
         {},
         { withCredentials: true }
       );
@@ -17,7 +18,7 @@ export default {
   async getAllmyWishes() {
     try {
       const response = await axios.get(
-        "https://localhost:7072/Wish/GetMyWishList/",
+        "https://dopeclothesserver.azurewebsites.net/Wish/GetMyWishList/",
 
         { withCredentials: true }
       );
@@ -29,7 +30,8 @@ export default {
   async deleteFromWishlist(productId) {
     try {
       const response = await axios.post(
-        "https://localhost:7072/Wish/DeleteProductFromWishList/" + productId,
+        "https://dopeclothesserver.azurewebsites.net/Wish/DeleteProductFromWishList/" +
+          productId,
 
         { withCredentials: true }
       );

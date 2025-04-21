@@ -4,7 +4,7 @@ export default {
   async registerUser(userObj) {
     try {
       const response = await axios.post(
-        "https://localhost:7072/Auth/Register",
+        "https://dopeclothesserver.azurewebsites.net/Auth/Register",
         userObj
       );
       return response.data;
@@ -14,9 +14,12 @@ export default {
   },
   async logoutUser() {
     try {
-      return await axios.post("https://localhost:7072/Auth/Logout", {
-        withCredentials: true,
-      });
+      return await axios.post(
+        "https://dopeclothesserver.azurewebsites.net/Auth/Logout",
+        {
+          withCredentials: true,
+        }
+      );
     } catch (error) {
       throw error;
     }
@@ -24,7 +27,7 @@ export default {
   async loginUser(userObj) {
     try {
       const response = await axios.post(
-        "https://localhost:7072/Auth/Login",
+        "https://dopeclothesserver.azurewebsites.net/Auth/Login",
         userObj
       );
       return response.data;
@@ -35,7 +38,7 @@ export default {
   async resetPassword(oldPassword, newPassword, confirmPassword) {
     try {
       const response = await axios.post(
-        "https://localhost:7072/Auth/ResetPassword",
+        "https://dopeclothesserver.azurewebsites.net/Auth/ResetPassword",
         {
           oldPassword: oldPassword,
           newPassword: newPassword,

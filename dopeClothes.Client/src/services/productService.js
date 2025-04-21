@@ -4,7 +4,7 @@ export default {
   async createProduct(productObj) {
     try {
       const response = await axios.post(
-        "https://localhost:7072/Product/Create",
+        "https://dopeclothesserver.azurewebsites.net/Product/Create",
         productObj,
         {
           withCredentials: true,
@@ -21,7 +21,7 @@ export default {
   async updateProduct(productObj) {
     try {
       const response = await axios.post(
-        "https://localhost:7072/Product/Update",
+        "https://dopeclothesserver.azurewebsites.net/Product/Update",
         productObj,
         {
           withCredentials: true,
@@ -38,7 +38,7 @@ export default {
   async getAllProducts() {
     try {
       const response = await axios.get(
-        "https://localhost:7072/Product/GetAll",
+        "https://dopeclothesserver.azurewebsites.net/Product/GetAll",
         { withCredentials: true }
       );
       return response.data;
@@ -49,7 +49,7 @@ export default {
   async getProduct(id) {
     try {
       const response = await axios.get(
-        "https://localhost:7072/Product/Get/" + id,
+        "https://dopeclothesserver.azurewebsites.net/Product/Get/" + id,
         { withCredentials: true }
       );
       return response.data;
@@ -60,7 +60,7 @@ export default {
   async deleteProduct(id) {
     try {
       const response = await axios.delete(
-        "https://localhost:7072/Product/Delete/" + id,
+        "https://dopeclothesserver.azurewebsites.net/Product/Delete/" + id,
         { withCredentials: true }
       );
       return response.data;
