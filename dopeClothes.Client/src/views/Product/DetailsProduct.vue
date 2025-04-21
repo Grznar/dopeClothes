@@ -83,7 +83,7 @@
                 <div class="mb-3 mt-3">
                   <img
                     v-if="productOjb.imageUrl"
-                    :src="`https://localhost:7072${productOjb.imageUrl}`"
+                    :src="`https://dopeclothesserver.azurewebsites.net/${productOjb.imageUrl}`"
                     alt="product image"
                     class="img-fluid"
                     width="200"

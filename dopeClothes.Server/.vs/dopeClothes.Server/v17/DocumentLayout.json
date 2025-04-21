@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|solutionrelative:dopeclothes.server\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA501DB7-6CD3-4DE8-B409-E88D2FF36F9F}|dopeClothes.Server\\dopeClothes.Server.csproj|c:\\users\\admin\\desktop\\projekty\\asp.net-vue\\dopeclothes\\dopeclothes.server\\dopeclothes.server\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -214,7 +214,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -222,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "ShoppingCartItem.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Models\\ShoppingCartItem.cs",
               "RelativeDocumentMoniker": "dopeClothes.Server\\Models\\ShoppingCartItem.cs",
@@ -230,11 +230,12 @@
               "RelativeToolTip": "dopeClothes.Server\\Models\\ShoppingCartItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T09:43:18.041Z"
+              "WhenOpened": "2025-04-16T09:43:18.041Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Models\\Order.cs",
               "RelativeDocumentMoniker": "dopeClothes.Server\\Models\\Order.cs",
@@ -246,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Program.cs",
               "RelativeDocumentMoniker": "dopeClothes.Server\\Program.cs",
@@ -258,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\appsettings.json",
               "RelativeDocumentMoniker": "dopeClothes.Server\\appsettings.json",
@@ -270,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ShoppingCart.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Models\\ShoppingCart.cs",
               "RelativeDocumentMoniker": "dopeClothes.Server\\Models\\ShoppingCart.cs",
@@ -282,20 +283,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ShoppingCartController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Controllers\\ShoppingCartController.cs",
               "RelativeDocumentMoniker": "dopeClothes.Server\\Controllers\\ShoppingCartController.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Controllers\\ShoppingCartController.cs",
               "RelativeToolTip": "dopeClothes.Server\\Controllers\\ShoppingCartController.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAmwEIAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T09:49:31.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "dopeClothes.Server\\Controllers\\OrderController.cs",
@@ -307,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "dopeClothes.Server.csproj",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\dopeClothes.Server.csproj",
               "RelativeDocumentMoniker": "dopeClothes.Server\\dopeClothes.Server.csproj",
@@ -319,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AdminOrderVM.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Models\\VMs\\AdminOrderVM.cs",
               "RelativeDocumentMoniker": "dopeClothes.Server\\Models\\VMs\\AdminOrderVM.cs",
@@ -331,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MyOrderVM.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Models\\VMs\\MyOrderVM.cs",
               "RelativeDocumentMoniker": "dopeClothes.Server\\Models\\VMs\\MyOrderVM.cs",

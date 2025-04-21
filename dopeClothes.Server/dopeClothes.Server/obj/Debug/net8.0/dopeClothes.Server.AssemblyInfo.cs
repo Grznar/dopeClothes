@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dopeClothes.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+147d1730a73ac693afa5842c6fd798be280de4d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9fd1d6b85de5dce29e8aa72bbede0a44cb590cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("dopeClothes.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dopeClothes.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

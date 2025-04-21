@@ -42,7 +42,7 @@
                     <td>
                       <img
                         v-if="product.imageUrl"
-                        :src="`https://localhost:7072${product.imageUrl}`"
+                        :src="`https://dopeclothesserver.azurewebsites.net/${product.imageUrl}`"
                         alt="product image"
                         width="80"
                       />

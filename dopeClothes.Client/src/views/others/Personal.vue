@@ -73,7 +73,7 @@
                       <td>{{ item.product.name }}</td>
                       <td>
                         <img
-                          :src="`https://localhost:7072${item.product.imageUrl}`"
+                          :src="`https://dopeclothesserver.azurewebsites.net/${item.product.imageUrl}`"
                           alt="Product image"
                           style="width: 100px"
                         />

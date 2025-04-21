@@ -5,7 +5,7 @@
         <img
           :src="
             productObj.imageUrl
-              ? `https://localhost:7072/${productObj.imageUrl}`
+              ? `https://dopeclothesserver.azurewebsites.net/${productObj.imageUrl}`
               : 'https://placehold.co/600x400'
           "
           :alt="productObj.name"

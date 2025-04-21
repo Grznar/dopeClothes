@@ -29,7 +29,7 @@
             <div class="d-flex align-items-center">
               <img
                 :src="
-                  `https://localhost:7072/${item.product.imageUrl}` ||
+                  `https://dopeclothesserver.azurewebsites.net/${item.product.imageUrl}` ||
                   'https://placehold.co/60x60'
                 "
                 alt="Product"

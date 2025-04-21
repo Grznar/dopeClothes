@@ -6,7 +6,7 @@ Tento soubor je používán procesem publikování nebo balení webového projek
 <Project>
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <History>True|2025-04-21T15:29:08.2993969Z||;True|2025-04-21T17:27:10.9407099+02:00||;True|2025-04-21T17:18:47.8508501+02:00||;</History>
+    <History>True|2025-04-21T17:18:55.7930165Z||;True|2025-04-21T17:29:08.2993969+02:00||;True|2025-04-21T17:27:10.9407099+02:00||;True|2025-04-21T17:18:47.8508501+02:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
