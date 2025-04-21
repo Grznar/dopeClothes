@@ -230,8 +230,7 @@
               "RelativeToolTip": "dopeClothes.Server\\Controllers\\OrderController.cs",
               "ViewState": "AgIAAHgAAAAAAAAAAAAswCcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T03:22:30.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T03:22:30.086Z"
             },
             {
               "$type": "Document",
@@ -243,8 +242,7 @@
               "RelativeToolTip": "dopeClothes.Server\\Models\\ShoppingCartItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T09:43:18.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T09:43:18.041Z"
             },
             {
               "$type": "Document",
@@ -256,8 +254,7 @@
               "RelativeToolTip": "dopeClothes.Server\\Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T03:17:54.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T03:17:54.996Z"
             },
             {
               "$type": "Document",
@@ -267,7 +264,7 @@
               "RelativeDocumentMoniker": "dopeClothes.Server\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Projekty\\ASP.NET-VUE\\dopeClothes\\dopeClothes.Server\\dopeClothes.Server\\Program.cs",
               "RelativeToolTip": "dopeClothes.Server\\Program.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEkAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T06:55:21.819Z",
               "EditorCaption": ""
@@ -282,8 +279,7 @@
               "RelativeToolTip": "dopeClothes.Server\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-13T06:55:27.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T06:55:27.575Z"
             },
             {
               "$type": "Document",
@@ -295,8 +291,7 @@
               "RelativeToolTip": "dopeClothes.Server\\Models\\ShoppingCart.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T09:41:44.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T09:41:44.868Z"
             },
             {
               "$type": "Document",
@@ -308,8 +303,7 @@
               "RelativeToolTip": "dopeClothes.Server\\dopeClothes.Server.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-13T07:42:50.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T07:42:50.795Z"
             },
             {
               "$type": "Document",
@@ -321,8 +315,7 @@
               "RelativeToolTip": "dopeClothes.Server\\Models\\VMs\\AdminOrderVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T04:46:44.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T04:46:44.406Z"
             },
             {
               "$type": "Document",
@@ -334,8 +327,7 @@
               "RelativeToolTip": "dopeClothes.Server\\Models\\VMs\\MyOrderVM.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAcwAUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T05:14:07.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T05:14:07.675Z"
             },
             {
               "$type": "Document",
@@ -347,8 +339,7 @@
               "RelativeToolTip": "dopeClothes.Server\\Migrations\\20250417040625_add-order-to-dbb.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T04:06:25.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T04:06:25.403Z"
             },
             {
               "$type": "Document",
@@ -372,8 +363,7 @@
               "RelativeToolTip": "dopeClothes.Server\\Migrations\\20250417040405_add-order-to-db.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwCUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T04:04:05.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T04:04:05.68Z"
             },
             {
               "$type": "Document",
@@ -385,8 +375,7 @@
               "RelativeToolTip": "dopeClothes.Server\\Migrations\\20250417041028_add-to-db-fixf.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T04:10:28.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T04:10:28.389Z"
             },
             {
               "$type": "Document",
@@ -398,8 +387,7 @@
               "RelativeToolTip": "dopeClothes.Server\\Migrations\\20250416112936_add-to-db-.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T04:11:12.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T04:11:12.102Z"
             },
             {
               "$type": "Document",
@@ -411,8 +399,7 @@
               "RelativeToolTip": "dopeClothes.Server\\Migrations\\20250417040947_add-to-db-fix.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T04:09:47.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T04:09:47.698Z"
             },
             {
               "$type": "Document",
@@ -436,8 +423,7 @@
               "RelativeToolTip": "dopeClothes.Server\\Repositories\\Repository.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAApwCwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T07:00:34.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T07:00:34.563Z"
             },
             {
               "$type": "Document",
@@ -557,8 +543,7 @@
               "RelativeToolTip": "dopeClothes.Server\\Migrations\\20250416100722_add-shopping-cart.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T10:07:23.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T10:07:23.077Z"
             },
             {
               "$type": "Document",
@@ -582,8 +567,7 @@
               "RelativeToolTip": "dopeClothes.Server\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAHMAAAAAAAAAAAAgwH0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T07:11:53.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T07:11:53.7Z"
             },
             {
               "$type": "Document",
@@ -607,8 +591,7 @@
               "RelativeToolTip": "dopeClothes.Server\\Models\\VMs\\RegisterVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T07:10:51.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T07:10:51.419Z"
             },
             {
               "$type": "Document",
@@ -632,8 +615,7 @@
               "RelativeToolTip": "dopeClothes.Server\\Models\\VMs\\ResetPasswordVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T08:51:11.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T08:51:11.622Z"
             },
             {
               "$type": "Document",
@@ -645,8 +627,7 @@
               "RelativeToolTip": "dopeClothes.Server\\Models\\WhishList.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T06:26:07.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T06:26:07.305Z"
             },
             {
               "$type": "Document",
@@ -658,8 +639,7 @@
               "RelativeToolTip": "dopeClothes.Server\\Migrations\\20250416062730_edit-wishlist-add-wishlistitem.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T06:27:30.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T06:27:30.997Z"
             },
             {
               "$type": "Document",
@@ -683,8 +663,7 @@
               "RelativeToolTip": "dopeClothes.Server\\Models\\WishListItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T06:17:00.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T06:17:00.591Z"
             },
             {
               "$type": "Document",
@@ -732,8 +711,7 @@
               "RelativeToolTip": "dopeClothes.Server\\IRepositories\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T07:00:41.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T07:00:41.236Z"
             },
             {
               "$type": "Document",
@@ -745,8 +723,7 @@
               "RelativeToolTip": "dopeClothes.Server\\Migrations\\20250416061317_edit-wishlist.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T06:13:17.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T06:13:17.242Z"
             },
             {
               "$type": "Document",
@@ -758,8 +735,7 @@
               "RelativeToolTip": "dopeClothes.Server\\Migrations\\20250416040537_seed.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T04:05:37.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T04:05:37.425Z"
             },
             {
               "$type": "Document",
@@ -771,8 +747,7 @@
               "RelativeToolTip": "dopeClothes.Server\\Models\\Product.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T07:07:30.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T07:07:30.202Z"
             },
             {
               "$type": "Document",
@@ -832,8 +807,7 @@
               "RelativeToolTip": "dopeClothes.Server\\Models\\VMs\\LoginVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T07:21:57.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T07:21:57.835Z"
             },
             {
               "$type": "Document",
@@ -845,8 +819,7 @@
               "RelativeToolTip": "dopeClothes.Server\\Models\\VMs\\ProductVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T07:38:26.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T07:38:26.883Z"
             },
             {
               "$type": "Document",
