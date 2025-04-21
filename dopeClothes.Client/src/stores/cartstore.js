@@ -17,7 +17,9 @@ export const useCartStore = defineStore("cart", {
       try {
         const response = await shoppingcartService.fetchMyShoppingCart();
 
-        this.items = response;
+        if (response.length > 0) {
+          this.items = response;
+        } else this.items = null;
       } catch (error) {
         throw error;
       }

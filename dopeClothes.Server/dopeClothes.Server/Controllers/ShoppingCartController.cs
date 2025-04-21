@@ -103,11 +103,11 @@ namespace dopeClothes.Server.Controllers
         public IActionResult IncreaseProduct(int productId)
         {
             var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
-            if (userId == null) return BadRequest(new { message = "User not found" });
+            if (userId == null) return Ok(new { message = "User not found" });
             var shoppingCart = _unitOfWork.ShoppingCarts.Get(x => x.UserId == userId);
-            if (shoppingCart == null) return BadRequest(new { message = "Shop some items first!" });
+            if (shoppingCart == null) return Ok(new { message = "Shop some items first!" });
             var shoppingCartItem = _unitOfWork.ShoppingCartItems.Get(x => x.ProductId == productId && x.ShoppingCartId == shoppingCart.Id);
-            if (shoppingCartItem == null) return BadRequest(new { message = "Product not found in shopping cart" });
+            if (shoppingCartItem == null) return Ok(new { message = "Product not found in shopping cart" });
             if (shoppingCartItem.Count > 0)
             {
                 shoppingCartItem.Count++;
