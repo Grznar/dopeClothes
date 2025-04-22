@@ -3,7 +3,7 @@
     <div class="card-img-top position-relative">
       <img
         v-if="product.imageUrl"
-        :src="`https://localhost:7072/${product.imageUrl}`"
+        :src="`https://dopeclothesserver.azurewebsites.net/${product.imageUrl}`"
         alt="Product image"
         class="w-100"
       />
