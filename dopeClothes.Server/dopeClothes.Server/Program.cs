@@ -12,7 +12,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowFrontend", policy =>
     {
-        policy.WithOrigins("https://mango-glacier-0530d4903.6.azurestaticapps.net/")
+        policy.WithOrigins("http://localhost:5173/")
              .AllowAnyHeader()
               .AllowAnyMethod()
               .AllowCredentials();

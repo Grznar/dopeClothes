@@ -116,7 +116,7 @@ onMounted(async () => {
   try {
     console.log("Shopping cart Id:" + props.cartId);
     const resp = await orderService.getOrder(props.cartId);
-    order.value = resp.order;
+    order.value = resp.order || resp;
     console.log(order);
   } catch (e) {
     console.error(e);
