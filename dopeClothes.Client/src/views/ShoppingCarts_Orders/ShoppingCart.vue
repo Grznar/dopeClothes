@@ -99,7 +99,7 @@ async function toCheckout() {
     console.log(cartId);
     router.push({
       name: APP_ROUTE_NAMES.ORDER,
-      params: { cartId },
+      params: { id: cartId },
     });
   } catch (error) {
     console.log(error.message);

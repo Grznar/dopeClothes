@@ -97,6 +97,12 @@ const router = createRouter({
       name: APP_ROUTE_NAMES.MY_ORDER,
       meta: { requiresAuth: true },
     },
+    {
+      path: "/order-list",
+      component: OrdersList,
+      name: APP_ROUTE_NAMES.OrdersList,
+      meta: { requiresAuth: true, requiresAdmin: true },
+    },
   ],
 });
 
