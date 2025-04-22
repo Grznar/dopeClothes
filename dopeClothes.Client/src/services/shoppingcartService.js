@@ -22,7 +22,7 @@ export default {
         { withCredentials: true }
       );
 
-      if (response.data.items.lenght === 0) {
+      if (response.data.items.length === 0) {
         return null;
       }
       return response.data.items;
